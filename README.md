@@ -1,1 +1,1 @@
-Algorithms and Data Structers (in polish) - C/C+
+Algorithms and Data Structers (tasks content in polish) - C/C+
